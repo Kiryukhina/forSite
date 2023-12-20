@@ -16,3 +16,5 @@
 ![Подвеска - скат](C:\Users\kiryu\Downloads\Telegram Desktop\IMG_7775.JPG)
 
 ![Подвеска - котик](C:\Users\kiryu\Downloads\Telegram Desktop\IMG_4023.JPG)
+
+![Текст с описанием картинки](/images/file:///C:/Users/kiryu/Downloads/Telegram%20Desktop/IMG_4023.JPG)
